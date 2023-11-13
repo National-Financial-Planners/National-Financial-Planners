@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @National-Financial-Planners
 - 👀 I’m interested in financial planning services...
 - 🌱 I’m currently learning  on financial planning affairs
-- 💞️ I’m looking to collaborate on making life easier
+- 💞️ I’m looking to collaborate on making life easier related to financial planning affairs
 - 📫 How to reach me www.nfp.com.au
 
 <!---
